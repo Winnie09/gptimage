@@ -1,0 +1,3 @@
+competingmethods: Python functions to run ten competing image classifcation methods using torchvision
+
+tissue,celltype,cellstate,disease: code to perform tissue, cell type, cell state classifications, and disease diagnostics, respectively. Within each folder, competingmethods is the code to run ten competing image classifcation methods, gpt4v_image is the code for GPT-4V image-based classification, and gpt4v_text is the code for GPT-4V text-based classification
